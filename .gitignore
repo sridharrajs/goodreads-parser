@@ -1,0 +1,10 @@
+.idea
+.vscode
+
+node_modules
+
+package-lock.json
+
+
+# user specific goodreads data
+goodreads_library_export.csv
